@@ -1,0 +1,9 @@
+# Ignored folders
+.pytest_cache/
+cov_html/
+.idea/
+__pycache__/
+
+# Ignored files
+.coverage
+
